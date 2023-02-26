@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contact List App</string>
+    <string name="delete_cofirmation">Are you sure you want to delete this contact?</string>
+    <string name="delete_contact">Delete Contact</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="username">USERNAME</string>
+    <string name="phone">PHONE</string>
+    <string name="address">ADDRESS</string>
+    <string name="website">WEBSITE</string>
+    <string name="company">COMPANY</string>
+    <string name="email">EMAIL</string>
+    <string name="contacts">Contacts</string>
+    <string name="nameLabel">FIRSTNAME LASTNAME</string>
+</resources>
